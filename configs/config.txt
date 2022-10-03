@@ -1,0 +1,3 @@
+sourcepath=/home/alex/temp/master
+synchpath=/home/alex/temp/slave
+loglevel=INFO

@@ -1,0 +1,3 @@
+sourcepath=c:/temp/master
+synchpath=c:/temp/slave
+loglevel=INFO

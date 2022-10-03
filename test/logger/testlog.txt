@@ -1,0 +1,2 @@
+22-06-2022 08:16:39 - TEST - FUNC: testfunc; LOG: test message;
+19-09-2022 09:01:57 - TEST - FUNC: testfunc; LOG: test message;
